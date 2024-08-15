@@ -1,5 +1,6 @@
+# NYQUIST STABILITY CRITERION
 # Nyquist稳定性判据
-
+---
 ## 定义
 
 对于一个开环传递函数$G(s)$，其Nyquist曲线是其频率响应曲线$G(j\omega)$在复平面上的轨迹。Nyquist稳定性判据是通过Nyquist曲线的形状来判断系统的稳定性。
